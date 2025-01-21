@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hey Wesley! I can't log in to Visual Studio. Error code 0x80190001. Do you know how to solve this problem? Also my Visual Studio is in Chinese, I wonder how you could change that to English.\n";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
